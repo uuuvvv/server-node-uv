@@ -1,0 +1,10 @@
+# vscode隐藏文件
+.vscode
+# git初始化文件
+.git
+# 包文件夹
+node_modules/
+# 包详细信息
+package-lock.json
+# 打包文件夹
+dist/
